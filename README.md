@@ -1,6 +1,8 @@
 # Marketing Attribution & Unit Economics
 
-Portfolio data analytics project analyzing marketing channel performance across 4 channels — Google Ads, Facebook Ads, SEO, Email — with CAC/LTV/ROAS metrics, cohort LTV modeling, and an interactive budget optimizer.
+Portfolio data analytics project analyzing marketing channel performance across 4 channels
+
+![Marketing Analytics Dashboard](images/dashboard.png) — Google Ads, Facebook Ads, SEO, Email — with CAC/LTV/ROAS metrics, cohort LTV modeling, and an interactive budget optimizer.
 
 ## Business Problem
 
